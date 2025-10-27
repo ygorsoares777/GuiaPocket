@@ -1,7 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.GuiaPocket" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <item name="colorPrimary">@color/primaryRed</item>
+        <item name="colorPrimaryVariant">@color/primaryRedDark</item>
+        <item name="colorOnPrimary">@color/textPrimary</item>
+
+        <item name="colorSecondary">@color/accentGold</item>
+        <item name="colorOnSecondary">@color/textPrimary</item>
+
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:textColor">@color/textPrimary</item>
+        <item name="colorSurface">@color/surface</item>
+
     </style>
 </resources>

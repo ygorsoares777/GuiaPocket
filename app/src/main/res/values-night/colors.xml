@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tons principais -->
+    <color name="primaryRed">#EF5350</color> <!-- Vermelho claro vibrante -->
+    <color name="primaryRedDark">#B71C1C</color> <!-- Vermelho escuro -->
+    <color name="accentGold">#FFD54F</color> <!-- Dourado mais vivo -->
+    <color name="error">#FF6F60</color> <!-- Tom de erro suave -->
+
+    <!-- Fundo e superfícies -->
+    <color name="background">#121212</color> <!-- Fundo escuro -->
+    <color name="surface">#1E1E1E</color> <!-- Cards, listas -->
+    <color name="divider">#333333</color>
+    <color name="shadowImage">#55000000</color>
+
+    <!-- Texto -->
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#BDBDBD</color>
+
+    <!-- Ícones -->
+    <color name="iconTint">#E0E0E0</color>
+</resources>
